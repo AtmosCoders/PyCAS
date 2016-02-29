@@ -17,7 +17,7 @@ We could put links to bits of Python that have been discussed here.
 
 You can link directly to iPython Notebooks on github:
 
-[Galaxy notebook example](PyCAS/SamplePythonNB.ipynb)
+[Galaxy notebook example](SamplePythonNB.ipynb)
 
 Useful Links
 -------------
