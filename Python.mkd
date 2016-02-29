@@ -20,4 +20,5 @@ Useful Links
 More permanent links and resources.
 
 [The Matplotlib gallery](http://matplotlib.org/gallery.html)
+
 [NumPy documentation](http://docs.scipy.org/doc/)
