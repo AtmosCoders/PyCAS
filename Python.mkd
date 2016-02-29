@@ -15,6 +15,10 @@ Python Snippets
 ----------------
 We could put links to bits of Python that have been discussed here.
 
+You can link directly to iPython Notebooks on github:
+
+[Galaxy notebook example](PyCAS/SamplePythonNB.ipynb)
+
 Useful Links
 -------------
 More permanent links and resources.
