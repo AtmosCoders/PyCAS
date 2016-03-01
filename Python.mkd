@@ -17,7 +17,8 @@ We could put links to bits of Python that have been discussed here.
 
 You can link directly to iPython Notebooks on github:
 
-[Galaxy notebook example](http://nbviewer.jupyter.org/github/decvalts/PyCAS/blob/gh-pages/SamplePythonNB.ipynb)
+[Erosion Law Uncertainty Plots](https://nbviewer.jupyter.org/github/decvalts/PyCAS/blob/gh-pages/ErosionLawUncertainty.ipynb) 
+
 
 Useful Links
 -------------
