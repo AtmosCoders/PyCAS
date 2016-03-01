@@ -9,7 +9,7 @@ We are an informal group of Python users in the Centre of Atmospheric Science, U
 
 Next Meeting
 -------------
-The meeting will be at 12:30pm in Room 1.10. Biscuits will be provided. 
+The meeting will be at **12:30pm in Room 1.10 on Friday 4th March 2016**. Biscuits will be provided. 
 
 Python Snippets
 ----------------
