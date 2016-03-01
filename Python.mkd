@@ -24,6 +24,13 @@ Useful Links
 -------------
 More permanent links and resources.
 
+[Using the IPython Notebook](http://ipython.org/notebook.html)
+
+The IPython notebook is a useful tool to interactively play with Python and Matplotlib, rendering the output instantly in your browser. You need to have Ipython installed on your PC. Then you can start it from the terminal with:
+```
+ipython notebook
+```
+
 [The Matplotlib gallery](http://matplotlib.org/gallery.html)
 
 [NumPy documentation](http://docs.scipy.org/doc/)
