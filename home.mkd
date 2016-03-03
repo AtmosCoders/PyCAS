@@ -34,3 +34,10 @@ ipython notebook
 [The Matplotlib gallery](http://matplotlib.org/gallery.html)
 
 [NumPy documentation](http://docs.scipy.org/doc/)
+
+Upcoming Python Courses
+------------------------
+
+[Introduction to Numerical Computing with Python](https://app.manchester.ac.uk/training/profile.aspx?unitid=5299&parentId=83&returnId=83&returntxt=Return+To+Calendar&returnQs=%3forg%3d0%26view%3d1%26sdate%3d01%2f03%2f2016) Internal course run by research IT. Requires UoM login to book.
+
+[Scientific Python](https://www.archer.ac.uk/training/) Organised by ARCHER/PRACE. The date is yet to be confirmed but will be held in Liverpool. 
