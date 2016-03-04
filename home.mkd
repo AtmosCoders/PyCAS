@@ -27,6 +27,7 @@ The meeting should last no more than an hour roughly. You are welcome to come to
 We decided that the meetings will *not* be a step-by-step guide to learning Python from scratch. There are lots of good resources and courses out there on the internet that can do that better, so you are encouraged to have a look at those. Python is said to be an intuitive language to learn, especially if you already have some programming knowledge, so hopefully you'll pick it up quickly.
 
 ## Learning Python
+
 ### Online courses
 
 [Python for the Scientific Researcher](http://atmoscoders.github.io/courses).<br>
