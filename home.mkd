@@ -5,7 +5,7 @@ layout: default
 
 ## About PyCAS
 
-We are an informal group of Python users in the Centre of Atmospheric Science, University of Manchester. We plan on meeting roughly twice a week to discuss Python-related problems, and learn some new Python along the way.
+We are an informal group of Python users in the Centre of Atmospheric Science, University of Manchester. We plan on meeting roughly every two weeks to discuss Python-related problems, and learn some new Python along the way.
 
 ## Meetings
 
@@ -24,14 +24,14 @@ The remainder of the meeting we will focus on a pre-arranged Python topic. About
 
 The meeting should last no more than an hour roughly. You are welcome to come to either half, both, or neither.
 
-We decided that the meetings will *not* be a step-by-step guide to learning Python from scratch. There are lots of good resources and courses out there on the internet that can do that better, so you are encouraged to have a look at those. Python is said to be an intuitive language to learn, especially if you already have some programming knowledge, so hopefully you'll pick it up quickly.
 
 ## Learning Python
+We decided that the meetings will *not* be a step-by-step guide to learning Python from scratch. There are lots of good resources and courses out there on the internet that can do that sort of thing better, so you are encouraged to have a look at those. Python is said to be an intuitive language to learn, especially if you already have some programming knowledge, so hopefully you'll pick it up quickly!
 
 ### Online courses
 
 [Python for the Scientific Researcher](http://atmoscoders.github.io/courses).<br>
-These are a series of courses covering NumPy, matplotlib, cartopy, and iris. Developed by the Met Office, they are can be read as static pages, but are best experienced by downloading the IPython notebook files and running through them interactively with the `ipython notebook` viewer on your own PC.
+These are a series of courses covering NumPy, matplotlib, cartopy, and iris. Developed by the Met Office, they can be read as static pages, but are best experienced by downloading the IPython notebook files and running through them interactively with the `ipython notebook` viewer on your own PC. (You may need to install ipython first).
 
 ### Real-life courses with humans
 
