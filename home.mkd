@@ -11,6 +11,8 @@ We are an informal group of Python users in the Centre of Atmospheric Science, U
 
 The next meeting will be on **Friday 18th March at 12:30pm in Room 1.10**. Biscuits will be provided. Bring your own lunch.
 
+[More detailed notes from the meeting can be found here](http://atmoscoders.github.io)
+
 The topic will be: **Reading and using netCDF data in Python to produce beautiful plots with matplotlib.**
 
 More details to follow. We will touch on things like numpy, matplotlib and the netCDF library.
