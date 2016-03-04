@@ -9,7 +9,7 @@ We are an informal group of Python users in the Centre of Atmospheric Science, U
 
 ## Next Meeting
 
-The meeting will be on **Friday 18th March at 12:30pm in Room 1.10 **. Biscuits will be provided. Bring your own lunch.
+The meeting will be on **Friday 18th March at 12:30pm in Room 1.10**. Biscuits will be provided. Bring your own lunch.
 
 The topic will be: **Reading and using netCDF data in Python to produce beautiful plots with matplotlib.**
 
