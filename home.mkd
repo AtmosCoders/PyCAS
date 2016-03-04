@@ -17,7 +17,7 @@ We could put links to bits of Python that have been discussed here.
 
 You can link directly to iPython Notebooks on github:
 
-[Radar data plotting](https://github.com/AtmosCoders/PyCAS/blob/gh-pages/Radar_data_plot.ipynb)
+[Radar data plotting](https://nbviewer.jupyter.org/github/AtmosCoders/PyCAS/blob/gh-pages/Radar_data_plot.ipynb)
 
 [Erosion Law Uncertainty Plots](https://nbviewer.jupyter.org/github/decvalts/PyCAS/blob/gh-pages/ErosionLawUncertainty.ipynb) 
 
