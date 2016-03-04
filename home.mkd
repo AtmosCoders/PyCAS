@@ -3,29 +3,40 @@ title: Main Page
 layout: default
 ---
 
-About PyCAS
------------------------------------------
-We are an informal group of Python users in the Centre of Atmospheric Science, University of Manchester. We plan on meeting semi-regularly to discuss Python-related problems, and learn some new Python along the way.
+## About PyCAS
 
-Next Meeting
--------------
-The meeting will be at **12:30pm in Room 1.10 on Friday 4th March 2016**. Biscuits will be provided. Bring your own lunch.
+We are an informal group of Python users in the Centre of Atmospheric Science, University of Manchester. We plan on meeting roughly twice a week to discuss Python-related problems, and learn some new Python along the way.
 
-Python Snippets
-----------------
-We could put links to bits of Python that have been discussed here.
+## Next Meeting
 
-You can link directly to iPython Notebooks on github:
+The meeting will be on **Friday 18th March at 12:30pm in Room 1.10 **. Biscuits will be provided. Bring your own lunch.
 
-[Radar data plotting](https://nbviewer.jupyter.org/github/AtmosCoders/PyCAS/blob/gh-pages/Radar_data_plot.ipynb)
+The topic will be: **Reading and using netCDF data in Python to produce beautiful plots with matplotlib.**
 
+More details to follow. We will touch on things like numpy, matplotlib and the netCDF library.
+
+### Format of the meeting
+In general meetings will take the following format:
+
+We start with a brief informal discussion (~20 mins) session where people can ask about any Python-related question they like. Maybe you've heard of some cool new Python feature or Python-news. People may also bring bits of Python code they are having trouble getting to work, and we can collectively try and find solutions. There is not set theme of discussion.
+
+The remainder of the meeting we will focus on a pre-arranged Python topic. About a week before the meeting I'll send out a task or bit of code for us all to work through (It will not be a massive task to complete! Maybe half an hour if things go smoothly...) Then, in the meeting we will go through a solution to the problem, and we can talk about any problems we ran into, and how we might extend it to our own work. Note: Anyone can volunteer to lead this session or set the task!
+
+The meeting should last no more than an hour roughly. You are welcome to come to either half, both, or neither.
+
+
+## Python Snippets
+
+Links to useful bits of python go here:
+
+You can link directly to iPython Notebooks on github:<br>
+[Radar data plotting](https://nbviewer.jupyter.org/github/AtmosCoders/PyCAS/blob/gh-pages/Radar_data_plot.ipynb) <br>
 [Erosion Law Uncertainty Plots](https://nbviewer.jupyter.org/github/decvalts/PyCAS/blob/gh-pages/ErosionLawUncertainty.ipynb) 
 
 Online Courses
 --------------
 
-[Python for the Scientific Researcher](http://atmoscoders.github.io/courses).
-
+[Python for the Scientific Researcher](http://atmoscoders.github.io/courses).<br>
 These are a series of courses covering NumPy, matplotlib, cartopy, and iris. Developed by the Met Office, they are can be read as static pages, but are best experienced by downloading the IPython notebook files and running through them interactively with the `ipython notebook` viewer on your own PC.
 
 
@@ -33,20 +44,18 @@ Useful Links
 -------------
 More permanent links and resources.
 
-[Using the IPython Notebook](http://ipython.org/notebook.html)
+[Using the IPython Notebook](http://ipython.org/notebook.html)<br>
+The IPython notebook is a useful tool to interactively play with Python and Matplotlib, rendering the output instantly in your browser. You need to have Ipython installed on your PC. Then you can start it from the terminal with:`ipython notebook`
 
-The IPython notebook is a useful tool to interactively play with Python and Matplotlib, rendering the output instantly in your browser. You need to have Ipython installed on your PC. Then you can start it from the terminal with:
-```
-ipython notebook
-```
-
-[The Matplotlib gallery](http://matplotlib.org/gallery.html)
-
+[The Matplotlib gallery](http://matplotlib.org/gallery.html)<br>
 [NumPy documentation](http://docs.scipy.org/doc/)
 
 Upcoming Python Courses
-------------------------
+----------------------------------
+(with real humans!)
 
-[Introduction to Numerical Computing with Python](https://app.manchester.ac.uk/training/profile.aspx?unitid=5299&parentId=83&returnId=83&returntxt=Return+To+Calendar&returnQs=%3forg%3d0%26view%3d1%26sdate%3d01%2f03%2f2016) Internal course run by research IT. Requires UoM login to book.
+[Introduction to Numerical Computing with Python](https://app.manchester.ac.uk/training/profile.aspx?unitid=5299&parentId=83&returnId=83&returntxt=Return+To+Calendar&returnQs=%3forg%3d0%26view%3d1%26sdate%3d01%2f03%2f2016) <br>
+Internal course run by research IT. Requires UoM login to book.
 
-[Scientific Python](https://www.archer.ac.uk/training/) Organised by ARCHER/PRACE. The date is yet to be confirmed but will be held in Liverpool. 
+[Scientific Python](https://www.archer.ac.uk/training/)<br>
+Organised by ARCHER/PRACE. The date is yet to be confirmed but will be held in Liverpool. 
