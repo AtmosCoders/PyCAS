@@ -7,9 +7,9 @@ layout: default
 
 We are an informal group of Python users in the Centre of Atmospheric Science, University of Manchester. We plan on meeting roughly twice a week to discuss Python-related problems, and learn some new Python along the way.
 
-## Next Meeting
+## Meetings
 
-The meeting will be on **Friday 18th March at 12:30pm in Room 1.10**. Biscuits will be provided. Bring your own lunch.
+The next meeting will be on **Friday 18th March at 12:30pm in Room 1.10**. Biscuits will be provided. Bring your own lunch.
 
 The topic will be: **Reading and using netCDF data in Python to produce beautiful plots with matplotlib.**
 
@@ -24,25 +24,25 @@ The remainder of the meeting we will focus on a pre-arranged Python topic. About
 
 The meeting should last no more than an hour roughly. You are welcome to come to either half, both, or neither.
 
+We decided that the meetings will *not* be a step-by-step guide to learning Python from scratch. There are lots of good resources and courses out there on the internet that can do that better, so you are encouraged to have a look at those. Python is said to be an intuitive language to learn, especially if you already have some programming knowledge, so hopefully you'll pick it up quickly.
 
-## Python Snippets
-
-Links to useful bits of python go here:
-
-You can link directly to iPython Notebooks on github:<br>
-[Radar data plotting](https://nbviewer.jupyter.org/github/AtmosCoders/PyCAS/blob/gh-pages/Radar_data_plot.ipynb) <br>
-[Erosion Law Uncertainty Plots](https://nbviewer.jupyter.org/github/decvalts/PyCAS/blob/gh-pages/ErosionLawUncertainty.ipynb) 
-
-Online Courses
---------------
+## Learning Python
+### Online courses
 
 [Python for the Scientific Researcher](http://atmoscoders.github.io/courses).<br>
 These are a series of courses covering NumPy, matplotlib, cartopy, and iris. Developed by the Met Office, they are can be read as static pages, but are best experienced by downloading the IPython notebook files and running through them interactively with the `ipython notebook` viewer on your own PC.
 
+### Real-life courses with humans
 
-Useful Links
--------------
-More permanent links and resources.
+[Introduction to Numerical Computing with Python](https://app.manchester.ac.uk/training/profile.aspx?unitid=5299&parentId=83&returnId=83&returntxt=Return+To+Calendar&returnQs=%3forg%3d0%26view%3d1%26sdate%3d01%2f03%2f2016) <br>
+Internal course run by research IT. Requires UoM login to book.
+
+[Scientific Python](https://www.archer.ac.uk/training/)<br>
+Organised by ARCHER/PRACE. The date is yet to be confirmed but will be held in Liverpool. 
+
+## Useful Resources
+
+More permanent links and resources. Documentation and guides to Python, NumPy, matplotlib etc.
 
 [Using the IPython Notebook](http://ipython.org/notebook.html)<br>
 The IPython notebook is a useful tool to interactively play with Python and Matplotlib, rendering the output instantly in your browser. You need to have Ipython installed on your PC. Then you can start it from the terminal with:`ipython notebook`
@@ -50,12 +50,11 @@ The IPython notebook is a useful tool to interactively play with Python and Matp
 [The Matplotlib gallery](http://matplotlib.org/gallery.html)<br>
 [NumPy documentation](http://docs.scipy.org/doc/)
 
-Upcoming Python Courses
-----------------------------------
-(with real humans!)
+###Python Snippets
 
-[Introduction to Numerical Computing with Python](https://app.manchester.ac.uk/training/profile.aspx?unitid=5299&parentId=83&returnId=83&returntxt=Return+To+Calendar&returnQs=%3forg%3d0%26view%3d1%26sdate%3d01%2f03%2f2016) <br>
-Internal course run by research IT. Requires UoM login to book.
+Links to useful bits of python go here:
 
-[Scientific Python](https://www.archer.ac.uk/training/)<br>
-Organised by ARCHER/PRACE. The date is yet to be confirmed but will be held in Liverpool. 
+You can link directly to iPython Notebooks on github:<br>
+[Radar data plotting](https://nbviewer.jupyter.org/github/AtmosCoders/PyCAS/blob/gh-pages/Radar_data_plot.ipynb) <br>
+[Erosion Law Uncertainty Plots](https://nbviewer.jupyter.org/github/decvalts/PyCAS/blob/gh-pages/ErosionLawUncertainty.ipynb) 
+
