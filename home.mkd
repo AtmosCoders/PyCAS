@@ -11,9 +11,10 @@ We are an informal group of Python users in the Centre of Atmospheric Science, U
 
 The next meeting will be on **Friday 18th March at 12:30pm in Room 1.10**. Biscuits will be provided. Bring your own lunch.
 
-[More detailed notes from the meeting can be found here](http://atmoscoders.github.io)
+[Notes from the previous meetings can be found here](http://atmoscoders.github.io)
 
-The topic will be: **Reading and using netCDF data in Python to produce beautiful plots with matplotlib.**
+The topic will be:<br>
+***Reading and using netCDF data in Python to produce beautiful plots with matplotlib*** 
 
 More details to follow. We will touch on things like numpy, matplotlib and the netCDF library.
 
@@ -26,7 +27,6 @@ The remainder of the meeting we will focus on a pre-arranged Python topic. About
 
 The meeting should last no more than an hour roughly. You are welcome to come to either half, both, or neither.
 
-
 ## Learning Python
 We decided that the meetings will *not* be a step-by-step guide to learning Python from scratch. There are lots of good resources and courses out there on the internet that can do that sort of thing better, so you are encouraged to have a look at those. Python is said to be an intuitive language to learn, especially if you already have some programming knowledge, so hopefully you'll pick it up quickly!
 
@@ -34,6 +34,11 @@ We decided that the meetings will *not* be a step-by-step guide to learning Pyth
 
 [Python for the Scientific Researcher](http://atmoscoders.github.io/courses).<br>
 These are a series of courses covering NumPy, matplotlib, cartopy, and iris. Developed by the Met Office, they can be read as static pages, but are best experienced by downloading the IPython notebook files and running through them interactively with the `ipython notebook` viewer on your own PC. (You may need to install ipython first).
+
+[Basemap tutorial](https://basemaptutorial.readthedocs.org/en/latest/index.html).<br>
+Basemap is a standard extension of matplotlib for plotting 2D data over outline maps. It has a large library of maps and projections and is fairly straightforward to use. 
+
+The alternative to Basemap is [Cartopy](http://scitools.org.uk/cartopy/index.html). It requires separate installation on top of matplotlib (fairly painless), but is arguably more powerful and feature-rich.
 
 ### Real-life courses with humans
 
@@ -43,17 +48,32 @@ Internal course run by research IT. Requires UoM login to book.
 [Scientific Python](https://www.archer.ac.uk/training/)<br>
 Organised by ARCHER/PRACE. The date is yet to be confirmed but will be held in Liverpool.<br> 
 
-[Basemap tutorial](https://basemaptutorial.readthedocs.org/en/latest/index.html)
+
 
 ## Useful Resources
 
 More permanent links and resources. Documentation and guides to Python, NumPy, matplotlib etc.
 
-[Using the IPython Notebook](http://ipython.org/notebook.html)<br>
+[IPython Notebook](http://ipython.org/notebook.html)<br>
 The IPython notebook is a useful tool to interactively play with Python and Matplotlib, rendering the output instantly in your browser. You need to have Ipython installed on your PC. Then you can start it from the terminal with:`ipython notebook`
 
 [The Matplotlib gallery](http://matplotlib.org/gallery.html)<br>
-[NumPy documentation](http://docs.scipy.org/doc/)
+Sometimes the best way to learn matplotlib is to browse the sample gallery of plots, and then adapt a script to your own needs. There are all kinds of plot types available. The documentation is also well written.
+
+### Arrays and Matrices
+[NumPy](http://numpy.org/)<br>
+NumPy is one of the main add-on modules for Python used in scientific computing. It is designed to efficiently arrange and process data in arrays or matrices. (Python's built-in array functionality is somewhat limited without NumPy.). For Matlab converts, they even have a site dedicated to switching over to the light side: [MATLAB vs NumPy differences](https://docs.scipy.org/doc/numpy-dev/user/numpy-for-matlab-users.html). NumPy is intended to mirror the functionality of languages like Matlab, IDL, etc. 
+
+The convention when using the NumPy library is to use: 
+~~~ python
+import numpy as np
+~~~
+
+### Statistical and Scientific Functions
+[SciPy](http://docs.scipy.org/doc/scipy/reference/)<br>
+SciPy is a Python module that contains a range of scientific functions. If Fourier transforms, linear algebra, statistaical analysis, signal processing, image processing, etc., is your thing, you will probably find a function for it in SciPy. It covers most of the functionality of the R programming language, as well as the expensive add-on packages for Matlab. 
+
+
 
 ## Python Snippets
 
