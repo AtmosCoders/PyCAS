@@ -56,6 +56,7 @@ The IPython notebook is a useful tool to interactively play with Python and Matp
 Links to useful bits of python go here:
 
 You can link directly to iPython Notebooks on github:<br>
+[Plotting netCDF data](https://nbviewer.jupyter.org/github/AtmosCoders/PyCAS/blob/gh-pages/netCDF_example1.ipynb)<br>
 [Radar data plotting](https://nbviewer.jupyter.org/github/AtmosCoders/PyCAS/blob/gh-pages/Radar_data_plot.ipynb) <br>
 [Erosion Law Uncertainty Plots](https://nbviewer.jupyter.org/github/decvalts/PyCAS/blob/gh-pages/ErosionLawUncertainty.ipynb) 
 
