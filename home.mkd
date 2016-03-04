@@ -39,7 +39,9 @@ These are a series of courses covering NumPy, matplotlib, cartopy, and iris. Dev
 Internal course run by research IT. Requires UoM login to book.
 
 [Scientific Python](https://www.archer.ac.uk/training/)<br>
-Organised by ARCHER/PRACE. The date is yet to be confirmed but will be held in Liverpool. 
+Organised by ARCHER/PRACE. The date is yet to be confirmed but will be held in Liverpool.<br> 
+
+[Basemap tutorial](https://basemaptutorial.readthedocs.org/en/latest/index.html)
 
 ## Useful Resources
 
