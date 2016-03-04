@@ -19,6 +19,13 @@ You can link directly to iPython Notebooks on github:
 
 [Erosion Law Uncertainty Plots](https://nbviewer.jupyter.org/github/decvalts/PyCAS/blob/gh-pages/ErosionLawUncertainty.ipynb) 
 
+Online Courses
+--------------
+
+[Python for the Scientific Researcher](http://atmoscoders.github.io/courses).
+
+These are a series of courses covering NumPy, matplotlib, cartopy, and iris. Developed by the Met Office, they are can be read as static pages, but are best experienced by downloading the IPython notebook files and running through them interactively with the `ipython notebook` viewer on your own PC.
+
 
 Useful Links
 -------------
