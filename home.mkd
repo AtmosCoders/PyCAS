@@ -98,8 +98,8 @@ You can link directly to iPython Notebooks on github:<br>
 1. Talk about Python Club. Tell your friends and loved ones how amazing Python and how it is the future of Scientific Computing.
 2. Talk about Python Club. How many times have you talked about Python today? Less than four? Try harder.
 3. There are no silly questions.
-4. There is no code problem to small.
-5. There is no task not solvable with Python. ([Except synthesising the sound of a Bassoon.](https://www.youtube.com/watch?v=z2myFLUDB74))
+4. There is no code problem too small.
+5. There is no problem that cannot be solved with Python. ([Except synthesising the sound of a Bassoon.](https://www.youtube.com/watch?v=z2myFLUDB74))
 5. Do not talk about IDL. Unless it's "How do I re-write this god-awful IDL script in Python."
 6. Please wear clothing to meetings. Shoes are optional.
 7. Python Club will exist for as long as it has to.
