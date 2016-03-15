@@ -11,8 +11,6 @@ We are an informal group of Python users in the Centre of Atmospheric Science, U
 
 The next meeting will be on **Friday 18th March at 12:30pm in Room 1.10**. Biscuits will be provided. Bring your own lunch.
 
-[Notes from the previous meetings can be found here](http://atmoscoders.github.io)
-
 The topic will be:<br>
 ***Reading and using netCDF data in Python to produce beautiful plots with matplotlib*** 
 
@@ -22,6 +20,7 @@ Here is a short introduction and example of using the netCDF4 Python module for 
 
 The sample data can be [downloaded here](https://github.com/AtmosCoders/PyCAS/blob/gh-pages/sample_data/sst_july_2015.nc?raw=true). But you are encouraged to try out the above task with your own data. The [documentation for the netcdf module](http://unidata.github.io/netcdf4-python/#netCDF4.Variable) is rather cryptic, but there are many examples and hints available via googling and/or [StackOverflow](http://stackoverflow.com/).
 
+[Notes from the previous meetings can be found here](http://atmoscoders.github.io)
 
 ### Format of the meeting
 In general meetings will take the following format:
@@ -39,6 +38,9 @@ We decided that the meetings will *not* be a step-by-step guide to learning Pyth
 
 [Python for the Scientific Researcher](http://atmoscoders.github.io/courses).<br>
 These are a series of courses covering NumPy, matplotlib, cartopy, and iris. Developed by the Met Office, they can be read as static pages, but are best experienced by downloading the IPython notebook files and running through them interactively with the `ipython notebook` viewer on your own PC. (You may need to install ipython first).
+
+[Python for Earth Scientists](http://www1.gly.bris.ac.uk/~walker/PythonEarthSci/ex4.html). <br>
+Some good, concise notes about using Python for geosciences/atmos sciences. Includes Numpy, Matplotlib, etc.
 
 [Basemap tutorial](https://basemaptutorial.readthedocs.org/en/latest/index.html).<br>
 Basemap is a standard extension of matplotlib for plotting 2D data over outline maps. It has a large library of maps and projections and is fairly straightforward to use. 
